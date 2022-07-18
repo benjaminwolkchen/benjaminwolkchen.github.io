@@ -26,15 +26,15 @@
          "version":"v11",
          "lastModified":"2022-04-26",
          "files":{
-            "100":"http:\/\/fonts.gstatic.com\/s\/inter\/v11\/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyeMZhrib2Bg-4.ttf",
-            "200":"http:\/\/fonts.gstatic.com\/s\/inter\/v11\/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfMZhrib2Bg-4.ttf",
-            "300":"http:\/\/fonts.gstatic.com\/s\/inter\/v11\/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZhrib2Bg-4.ttf",
-            "regular":"http:\/\/fonts.gstatic.com\/s\/inter\/v11\/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZhrib2Bg-4.ttf",
-            "500":"http:\/\/fonts.gstatic.com\/s\/inter\/v11\/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZhrib2Bg-4.ttf",
-            "600":"http:\/\/fonts.gstatic.com\/s\/inter\/v11\/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZhrib2Bg-4.ttf",
-            "700":"http:\/\/fonts.gstatic.com\/s\/inter\/v11\/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZhrib2Bg-4.ttf",
-            "800":"http:\/\/fonts.gstatic.com\/s\/inter\/v11\/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZhrib2Bg-4.ttf",
-            "900":"http:\/\/fonts.gstatic.com\/s\/inter\/v11\/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYMZhrib2Bg-4.ttf"
+            "100":"https://fonts.bunny.net/inter/files/inter-latin-100-normal.woff",
+            "200":"https://fonts.bunny.net/inter/files/inter-latin-200-normal.woff",
+            "300":"https://fonts.bunny.net/inter/files/inter-latin-300-normal.woff",
+            "regular":"https://fonts.bunny.net/inter/files/inter-latin-400-normal.woff",
+            "500":"https://fonts.bunny.net/inter/files/inter-latin-500-normal.woff",
+            "600":"https://fonts.bunny.net/inter/files/inter-latin-600-normal.woff",
+            "700":"https://fonts.bunny.net/inter/files/inter-latin-700-normal.woff",
+            "800":"https://fonts.bunny.net/inter/files/inter-latin-800-normal.woff",
+            "900":"https://fonts.bunny.net/inter/files/inter-latin-900-normal.woff"
          },
          "category":"sans-serif",
          "kind":"webfonts#webfont"
