@@ -39,7 +39,7 @@
          "category":"sans-serif",
          "kind":"webfonts#webfont"
       },
-	  {
+      {
          "family":"Rubik",
          "variants":[
             "300",
@@ -243,7 +243,7 @@
          "category":"display",
          "kind":"webfonts#webfont"
       },
-	  {
+      {
          "family":"Nunito",
          "variants":[
             "200",
@@ -389,6 +389,6 @@
          },
          "category":"monospace",
          "kind":"webfonts#webfont"
-      },
+      }
    ]
 }
