@@ -26,15 +26,15 @@
          "version":"v11",
          "lastModified":"2022-04-26",
          "files":{
-            "100":"https://fonts.bunny.net/inter/files/inter-latin-100-normal.woff",
-            "200":"https://fonts.bunny.net/inter/files/inter-latin-200-normal.woff",
-            "300":"https://fonts.bunny.net/inter/files/inter-latin-300-normal.woff",
-            "regular":"https://fonts.bunny.net/inter/files/inter-latin-400-normal.woff",
-            "500":"https://fonts.bunny.net/inter/files/inter-latin-500-normal.woff",
-            "600":"https://fonts.bunny.net/inter/files/inter-latin-600-normal.woff",
-            "700":"https://fonts.bunny.net/inter/files/inter-latin-700-normal.woff",
-            "800":"https://fonts.bunny.net/inter/files/inter-latin-800-normal.woff",
-            "900":"https://fonts.bunny.net/inter/files/inter-latin-900-normal.woff"
+            "100":"http://fonts.bunny.net/inter/files/inter-latin-100-normal.woff",
+            "200":"http://fonts.bunny.net/inter/files/inter-latin-200-normal.woff",
+            "300":"http://fonts.bunny.net/inter/files/inter-latin-300-normal.woff",
+            "regular":"http://fonts.bunny.net/inter/files/inter-latin-400-normal.woff",
+            "500":"http://fonts.bunny.net/inter/files/inter-latin-500-normal.woff",
+            "600":"http://fonts.bunny.net/inter/files/inter-latin-600-normal.woff",
+            "700":"http://fonts.bunny.net/inter/files/inter-latin-700-normal.woff",
+            "800":"http://fonts.bunny.net/inter/files/inter-latin-800-normal.woff",
+            "900":"http://fonts.bunny.net/inter/files/inter-latin-900-normal.woff"
          },
          "category":"sans-serif",
          "kind":"webfonts#webfont"
